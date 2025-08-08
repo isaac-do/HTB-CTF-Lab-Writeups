@@ -1,7 +1,7 @@
 # Challenge Context
 - **Name**: Brutus
 - **Difficulty**: Very Easy
-- **Category**: Forensics
+- **Category**: DFIR
 - **OS**: Ubuntu 24.04
 - **CTF Date**: 04-04-2024
 - **Description**:
