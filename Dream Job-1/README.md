@@ -1,4 +1,4 @@
-<img width="1398" height="612" alt="image" src="https://github.com/user-attachments/assets/722e58e4-35b3-4c0e-b908-dd9c4a66f3ef" /># Challenge Context
+# Challenge Context
 - **Name**: Dream Job-1
 - **Difficulty**: Very Easy
 - **Category**: Threat Intelligence
