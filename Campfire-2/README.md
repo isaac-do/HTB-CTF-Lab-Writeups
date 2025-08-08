@@ -1,7 +1,7 @@
 # Challenge Context
 - **Name**: Campfire-2
 - **Difficulty**: Very Easy
-- **Category**: Forensics
+- **Category**: DFIR
 - **OS**: Windows
 - **CTF Date**: 06-27-2024
 - **Description**:
